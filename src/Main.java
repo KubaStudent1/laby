@@ -7,6 +7,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.println("Hello and welcome!1111");
         System.out.println("Hello and welcome!2222");
+        System.out.println("Hello and welcome!333");
 
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
